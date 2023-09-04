@@ -4,7 +4,7 @@ const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">
-        John Smith
+        M. Umer
         <svg
           width="36"
           height="36"
@@ -55,9 +55,9 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Visual Designer</h3>
+      <h3 className="home__subtitle">Web Developer</h3>
       <p className="home__description">
-        I'm creative designer based in new york, & i'm very passionate and
+        I'm Full Stack Web Developer based in Rawalpindi, & i'm very passionate and
         dedicated to my work.
       </p>
       <a href="#contact" className="button button--flex">

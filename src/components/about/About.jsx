@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import AboutImg from "../../assets/about.jpg";
+import AboutImg from "../../assets/about.png";
 import CV from "../../assets/M.Umer.pdf";
 import Info from "./Info";
 
@@ -14,9 +14,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Frontend developer, I create web pages with UI / UX user interface,
-            I have years of experience and many clients are happy with the
-            projects carried out.
+          I am an experienced full-stack web developer with a strong track record of creating web applications that delight clients and users. My skills encompass both frontend and backend development, ensuring a seamless user experience and robust functionality.
           </p>
           <a download="" href={CV} className="button button--flex">
             Downlaod CV{" "}
