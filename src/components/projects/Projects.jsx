@@ -24,7 +24,7 @@ const Projects = () => {
           </div>
           <div className="project1__text">
             <h3>Complaint 💬</h3>
-            <p>A complaint resolution platform, is an online service that empowers users to voice their concerns and grievances about products, services, or experiences. The website offers a user-friendly interface for submitting, tracking, and resolving complaints, ensuring a seamless process for addressing customer issues.</p>
+            <p>ComplaintResolve: Your online platform to voice concerns and resolve issues. User-friendly interface for easy complaint submission, tracking, and resolution. Seamlessly address customer grievances.</p>
             <div className="stack">
                 <p>Laravel</p>
                 <p>Codeigniter</p>
@@ -41,7 +41,7 @@ const Projects = () => {
         <div className="projects__content grid">
           <div className="project1__text">
             <h3>MR.Anderson's Cigars 🚬</h3>
-            <p>Mr. Anderson's Cigar, an exclusive destination for cigar enthusiasts, is an online platform dedicated to providing a curated selection of premium cigars. The website offers a sophisticated interface for discovering, purchasing, and savoring the finest cigars available. Whether you're a connoisseur or a newcomer to the world of cigars, Mr. Anderson's Cigar invites you to explore a world of exquisite flavors and exceptional quality.</p>
+            <p>Mr. Anderson's Cigar: Your premium online cigar destination. Explore, purchase, and savor the finest cigars with our sophisticated platform. Discover exquisite flavors and exceptional quality, whether you're a connoisseur or newcomer.</p>
             <div className="stack">
                 <p>Codeigniter</p>
                 <p>PHP</p>
@@ -68,7 +68,7 @@ const Projects = () => {
           </div>
           <div className="project1__text">
             <h3>MY PERFUME MARKET 🌸🍃</h3>
-            <p>My Perfume Market, your ultimate fragrance destination, is an online emporium designed to indulge your senses in a world of exquisite scents. Our website offers a captivating interface for exploring, selecting, and acquiring a wide range of luxurious perfumes. Whether you seek timeless classics or the latest olfactory sensations, My Perfume Market is your go-to source for discovering and acquiring the perfect fragrance to enhance your personal style and leave a lasting impression.</p>
+            <p>My Perfume Market: Your online haven for exquisite fragrances. Explore, select, and acquire luxurious perfumes. Discover your perfect scent to elevate your style and make a lasting impression.</p>
             <div className="stack">
                 <p>HTML</p>
                 <p>CSS</p>
